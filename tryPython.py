@@ -1,1 +1,1 @@
-print attemp2
+print(attemp)
